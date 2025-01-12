@@ -1,0 +1,7 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+  <!-- <h2 class="mt-16 mb-8 text-4xl font-extrabold">{{ i18n "featured" | emojify }}</h2> -->
+  {{ $recentResource := first 3 (where .Site.RegularPages "Section" "resources") }}
+  {{ range $recentResource }}
+    {{ partial "resource-link.html" . }}
+  {{ end }}
+{{ end }}
