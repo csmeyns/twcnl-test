@@ -4,7 +4,7 @@ description: "Please fill out the following information so we can get to know yo
 ---
 
 <span class="flex justify-center uppercase font-mono">
-  {{< button href="join" >}}
+  {{< button href="en/join" >}}
     Join
   {{< /button >}}
 </span>
