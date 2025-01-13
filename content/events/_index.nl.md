@@ -1,7 +1,7 @@
 ---
 title: "Activiteiten"
 description: ""
-layout: "events2"
+layout: "events"
 ---
 
 {{< lead >}}

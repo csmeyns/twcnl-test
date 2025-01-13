@@ -10,4 +10,4 @@ tags: ["organisatie"]
 layout: "single-event"
 ---
 
-De tweewekelijkse planbijeenkomst van Techwerkercoalitie Nederlands. [Sluit je aan](/join) als je mee wilt doen!
+De tweewekelijkse planbijeenkomst van Techwerkercoalitie Nederlands. [Sluit je aan](join) als je mee wilt doen!

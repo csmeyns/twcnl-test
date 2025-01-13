@@ -14,4 +14,4 @@ What matters most to you as a tech worker right now? Where would you like the te
 
 Take part in the Tech Workers Coalition NL *Imagining the future* strategy workshop to help shape the next steps! 
 
-Are you not a member yet? [Join now.](https://techwerkers.nl/en/join)
+Are you not a member yet? [Join now.](join)

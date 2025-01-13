@@ -10,4 +10,4 @@ tags: ["organizing"]
 layout: "single-event"
 ---
 
-Tech Workers Coalition Netherlands' biweekly action planning meeting. [Join](/en/join) if you'd like to take part!
+Tech Workers Coalition Netherlands' biweekly action planning meeting. [Join](join) if you'd like to take part!

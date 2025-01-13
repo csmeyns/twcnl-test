@@ -12,4 +12,4 @@ layout: "single-event"
 
 Kom meer te weten over sturing en besluitvorming met betrekking tot het organiseren rondom techwerk.
 
-Zit je nog niet bij de Techwerkerscoalitie? [Sluit je nu aan.](/join)
+Zit je nog niet bij de Techwerkerscoalitie? [Sluit je nu aan.](join)

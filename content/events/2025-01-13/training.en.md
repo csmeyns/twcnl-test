@@ -12,4 +12,4 @@ layout: "single-event"
 
 Learn more about governance and decision making in relation to tech worker organizing.
 
-Not yet a member of the Tech Workers Coalition? [Join now.](/en/join)
+Not yet a member of the Tech Workers Coalition? [Join now.](join)

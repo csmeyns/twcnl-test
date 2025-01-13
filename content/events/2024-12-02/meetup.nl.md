@@ -14,4 +14,4 @@ Wat is voor jou als techwerker belangrijk op dit moment? Wat zijn jouw wensen vo
 
 Doe mee aan de Techwerkerscoalitie NL *Toekomstvoorstelling* strategieworkshop om de volgende stappen te bepalen!
 
-Ben je nog geen deelnemer? [Sluit je nu aan.](https://techwerkers.nl/nl/join)
+Ben je nog geen deelnemer? [Sluit je nu aan.](join)
