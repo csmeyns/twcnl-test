@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Congo! :tada:"
-description: "This is a demo of the Congo theme for Hugo."
+title: "Techwerkerscoalitie"
+description: "Wil je meer autonomie op je werk? Maak het werkelijkheid. Sluit je aan!"
 ---
 
 <span class="flex justify-center uppercase font-mono">
