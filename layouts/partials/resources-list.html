@@ -5,7 +5,7 @@
     {{ $recentResource := where .Site.RegularPages "Section" "resources" }}
     {{ $sorted := sort $recentResource "Date" "desc" }}
     {{ range $sorted }}
-      {{ partial "article-link2.html" . }}
+      {{ partial "resource-link.html" . }}
     {{ end }}
 
     </div>
