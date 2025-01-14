@@ -10,7 +10,7 @@ tags: ["workshop"]
 layout: "single-event"
 ---
 
-![Flyer voor de 'Rubber Ducky Collective: Programming for Beginners' workshop](/events/2025-01-21/programming-skillshare-catu.png)
+![Flyer voor de 'Rubber Ducky Collective: Programming for Beginners' workshop](events/2025-01-21/programming-skillshare-catu.png)
 
 Techwerkerscoalitie Nederland en Rubber Ducky Collective organiseren een beginnersvriendelijke programmmeerskillshare, geen ervaring vereist!
 

@@ -10,7 +10,7 @@ tags: ["organizing"]
 layout: "single-event"
 ---
 
-![Blad voor de 'Leer zelf organiseren'-activiteit](../events/2024-08-27/learn-to-organise-NL.png)
+![Blad voor de 'Leer zelf organiseren'-activiteit](events/2024-08-27/learn-to-organise-NL.png)
 
 **Waar:** [https://meet.google.com/iim-orbi-stb](https://meet.google.com/iim-orbi-stb), spraakondertiteling beschikbaar
 
