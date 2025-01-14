@@ -10,7 +10,7 @@ tags: ["organizing"]
 layout: "single-event"
 ---
 
-![Flyer for the 'Learn to organise' event](/events/2024-08-27/learn-to-organise-EN.png)
+![Flyer for the 'Learn to organise' event](../../../../events/2024-08-27/learn-to-organise-EN.png)
 
 **Where:** [https://meet.google.com/iim-orbi-stb](https://meet.google.com/iim-orbi-stb), closed captions available
 
